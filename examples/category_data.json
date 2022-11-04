@@ -1,0 +1,22 @@
+{
+	"xAxis": {
+    	"data": ["Cat 1", "Cat 2", "Cat 3"]
+	},
+	"yAxis": {
+		"data": []
+	},
+	"series": [
+	    {
+	        "name": "Data Set 1",
+	        "data": [["Cat 1",120], ["Cat 2", 132], ["Cat 3", 150]]
+	    },
+        {
+            "name": "Data Set 2",
+            "data": [["Cat 1",220], ["Cat 2", 282], ["Cat 3", 201]]
+        },
+        {
+            "name": "Data Set 3",
+            "data": [["Cat 1",450], ["Cat 2", 432], ["Cat 3", 401]]
+        }
+	]
+}
