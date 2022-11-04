@@ -1,5 +1,7 @@
 # Welcome to Chart Helper
 
+[![CodeQL](https://github.com/ggntju/chart-helper/actions/workflows/codeql.yml/badge.svg?branch=master)](https://github.com/ggntju/chart-helper/actions/workflows/codeql.yml)
+
 ## Getting Started
 
 ### Overview
