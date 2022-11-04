@@ -6,11 +6,12 @@
 
 ### Overview
 
-*Chart Helper* is a statistical tool for creating charts with user defined data. It reads data from a specified location and then render it into a chart based on all of the options we select. It is powered by [Apache ECharts](https://echarts.apache.org/en/index.html), an open source JavaScript visualization library, therefore, this tool can be seen as a GUI wrapper for part of [Apache ECharts](https://echarts.apache.org/en/index.html).
+_Chart Helper_ is a statistical tool for creating charts with user defined data. It reads data from a specified location and then render it into a chart based on all of the options we select. It is powered by [Apache ECharts](https://echarts.apache.org/en/index.html), an open source JavaScript visualization library, therefore, this tool can be seen as a GUI wrapper for part of [Apache ECharts](https://echarts.apache.org/en/index.html).
 
 ### How to use
 
-*Chart Helper* uses [JSON](https://www.json.org/json-en.html) as data exchanging format. It only has 3 fields for user to deal with `xAxis`, `yAxis`, `series`: 
+_Chart Helper_ uses [JSON](https://www.json.org/json-en.html) as data exchanging format. It only has 3 fields for user to deal with `xAxis`, `yAxis`, `series`:
+
 ```
 {
     "xAxis": {
@@ -35,9 +36,10 @@
     ]
 }
 ```
+
 ### Development
 
-Pull requests and suggestions are welcome. 
+Pull requests and suggestions are welcome.
 
 To run latest version, simply run:
 
@@ -53,7 +55,8 @@ To build package:
 npm run package
 ```
 
-See [CONTRIBUTING.md](./CONTRIBUTING.md) for more details. 
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for more details.
+
 ### Dependencies
 
 - Data Visualization: [Apache ECharts](https://echarts.apache.org/en/index.html)
@@ -66,8 +69,17 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for more details.
 
 ### Status
 
-This project is still under active development and any form of support and suggestions are welcomed
+This project is still under active development and any form of support and suggestions are appreciated.
 
+## Help Project
 
+Your donations (any form of support is welcome, even cryptos which have not had any value yet) will help to publish to app stores, more frequent releases, faster feature requests implementation.
 
+<img src="./assets/venmo.jpg" height="300">
+<img src="./assets/paypal.jpg" height="300">
+<img src="./assets/alipay.jpg" height="300">
+<img src="./assets/wechatpay.jpg" height="300">
 
+MetaMask Wallet Address
+
+`0x95a867909c7307C33FDB2A96a690a87A6aa57350`

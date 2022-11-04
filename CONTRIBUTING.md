@@ -3,7 +3,8 @@
 You will need a recent version of [Node](https://nodejs.org/en/) and [NPM](https://www.npmjs.com/)
 
 ```
-npm install 
+npm cache clear --force // this is optional
+npm install
 ```
 
 ### Run from Source Code
@@ -19,6 +20,7 @@ npm run start
 ```
 npm run package
 ```
+
 ### Code Structure
 
 - `assets` folder contains some icons and images
