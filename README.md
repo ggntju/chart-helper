@@ -50,6 +50,8 @@ To build package:
 ```bash
 npm run package
 ```
+
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for more details. 
 ### Dependencies
 
 - Data Visualization: [Apache Echarts](https://echarts.apache.org/en/index.html)
