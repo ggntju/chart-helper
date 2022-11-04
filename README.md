@@ -4,7 +4,7 @@
 
 ### Overview
 
-*Chart Helper* is a statistical tool for creating charts with user defined data. It reads data from a specified location and then render it into a chart based on all of the options we select. It is powered by [Apache Echarts](https://echarts.apache.org/en/index.html), an open source JavaScript visualization library, therefore, this tool can be seen as a GUI wrapper for part of [Apache Echarts](https://echarts.apache.org/en/index.html).
+*Chart Helper* is a statistical tool for creating charts with user defined data. It reads data from a specified location and then render it into a chart based on all of the options we select. It is powered by [Apache ECharts](https://echarts.apache.org/en/index.html), an open source JavaScript visualization library, therefore, this tool can be seen as a GUI wrapper for part of [Apache ECharts](https://echarts.apache.org/en/index.html).
 
 ### How to use
 
@@ -54,7 +54,7 @@ npm run package
 See [CONTRIBUTING.md](./CONTRIBUTING.md) for more details. 
 ### Dependencies
 
-- Data Visualization: [Apache Echarts](https://echarts.apache.org/en/index.html)
+- Data Visualization: [Apache ECharts](https://echarts.apache.org/en/index.html)
 
 - Front-End: [React](https://reactjs.org/), [Electron](https://www.electronjs.org/), [Semantic-UI](https://react.semantic-ui.com/)
 
