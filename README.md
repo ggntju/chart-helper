@@ -1,12 +1,12 @@
-#Welcome to Chart Helper
+# Welcome to Chart Helper
 
-##Getting Started
+## Getting Started
 
-###Overview
+### Overview
 
 *Chart Helper* is a statistical tool for creating charts with user defined data. It reads data from a specified location and then render it into a chart based on all of the options we select. It is powered by [Apache Echarts](https://echarts.apache.org/en/index.html), an open source JavaScript visualization library, therefore, this tool can be seen as a GUI wrapper for part of [Apache Echarts](https://echarts.apache.org/en/index.html).
 
-###How to use
+### How to use
 
 *Chart Helper* uses [JSON](https://www.json.org/json-en.html) as data exchanging format. It only has 3 fields for user to deal with `xAxis`, `yAxis`, `series`: 
 ```
@@ -33,7 +33,7 @@
     ]
 }
 ```
-###Development
+### Development
 
 Pull requests and suggestions are welcome. 
 
@@ -50,7 +50,7 @@ To build package:
 ```bash
 npm run package
 ```
-###Dependencies
+### Dependencies
 
 - Data Visualization: [Apache Echarts](https://echarts.apache.org/en/index.html)
 
@@ -60,7 +60,7 @@ npm run package
 
 - Boilerplate: [Electron React Boilerplate](https://electron-react-boilerplate.js.org/)
 
-###Status
+### Status
 
 This project is still under active development and any form of support and suggestions are welcomed
 
