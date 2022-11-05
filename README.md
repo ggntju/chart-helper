@@ -2,6 +2,8 @@
 
 [![CodeQL](https://github.com/ggntju/chart-helper/actions/workflows/codeql.yml/badge.svg?branch=master)](https://github.com/ggntju/chart-helper/actions/workflows/codeql.yml)
 
+![Main Window](./assets/main_window.jpg)
+
 ## Getting Started
 
 ### Overview
