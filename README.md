@@ -89,7 +89,7 @@ This project is still under active development and in a very early stage
 
 ## Help Project
 
-Your donations (any form of support is welcome, even cryptos which have not had any value yet) will help to publish to app stores, more frequent releases, faster feature requests implementation.
+Your donations (any form of support is appreciated) will help to publish to app stores, more frequent releases, faster feature requests implementation.
 
 <img src="./assets/venmo.jpg" height="300">
 
