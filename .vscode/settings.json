@@ -1,4 +1,7 @@
 {
+  "editor.codeActionsOnSave": { "source.fixAll": true },
+  "editor.formatOnSave": false,
+  
   "files.associations": {
     ".eslintrc": "jsonc",
     ".prettierrc": "jsonc",
