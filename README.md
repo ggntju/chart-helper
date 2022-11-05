@@ -67,17 +67,34 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for more details.
 
 - Boilerplate: [Electron React Boilerplate](https://electron-react-boilerplate.js.org/)
 
+### Download
+
+Version 0.1.0
+
+Mac OS:
+
+- [ChartHelper-0.1.0.dmg](https://github.com/ggntju/chart-helper/releases/download/v0.1.0/ChartHelper-0.1.0.dmg)
+
+- [ChartHelper-0.1.0-arm64.dmg](https://github.com/ggntju/chart-helper/releases/download/v0.1.0/ChartHelper-0.1.0-arm64.dmg)
+
+Windows:
+
+- [ChartHelper-0.1.0-win-unpacked.zip](https://github.com/ggntju/chart-helper/releases/download/v0.1.0/ChartHelper-0.1.0-win-unpacked.zip)
+
 ### Status
 
-This project is still under active development and any form of support and suggestions are appreciated.
+This project is still under active development and in a very early stage
 
 ## Help Project
 
 Your donations (any form of support is welcome, even cryptos which have not had any value yet) will help to publish to app stores, more frequent releases, faster feature requests implementation.
 
 <img src="./assets/venmo.jpg" height="300">
+
 <img src="./assets/paypal.jpg" height="300">
+
 <img src="./assets/alipay.jpg" height="300">
+
 <img src="./assets/wechatpay.jpg" height="300">
 
 MetaMask Wallet Address
